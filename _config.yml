@@ -1,4 +1,4 @@
-baseurl: '/datarix/'
+baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 
