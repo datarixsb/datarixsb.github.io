@@ -1,6 +1,6 @@
 ---
 title: Trainings
-layout: services
+layout: trainings
 description: Trainings
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
