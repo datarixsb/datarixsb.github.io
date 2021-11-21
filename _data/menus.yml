@@ -1,0 +1,30 @@
+main:
+  - name: "Leistungen"
+    url: "/services/"
+    weight: 2
+  - name: "Technologien"
+    url: "/technologies/"
+    weight: 3
+  - name: "Schulungen"
+    url: "/trainings/"
+    weight: 4
+  - name: "Team"
+    url: "/team/"
+    weight: 5
+  - name: "Karriere"
+    url: "/career/"
+    weight: 6
+  - name: "Über uns"
+    url: "/about/"
+    weight: 7
+  - name: "Contact"
+    url: "/contact/"
+    weight: 8
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Impressum"
+    url: "/contact/"
+    weight: 2
