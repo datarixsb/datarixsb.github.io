@@ -94,3 +94,6 @@ This theme is open source under the MIT license. Please be respectful 🙏🏽 L
 
 - [Hugo Serif Theme](https://github.com/zerostaticthemes/hugo-serif-theme) (official)
 - [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official)
+
+### Good Link which explains how to set up the theme in docker
+https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-I/

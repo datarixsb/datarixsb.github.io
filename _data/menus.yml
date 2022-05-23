@@ -1,24 +1,31 @@
 main:
-  - name: "Services"
+  - name: "Leistungen"
     url: "/services/"
     weight: 2
+  - name: "Schulungen"
+    url: "/trainings/"
+    weight: 3
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Über uns"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
-  - name: "Trainings"
-    url: "/trainings/"
-    weight: 6
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Impressum"
+    url: "/impressum/"
     weight: 2
+  - name: "Datenschutzerklärung"
+    url: "/datenschutzerklaerung/"
+    weight: 3
+  - name: "Kontakt"
+    url: "/contact/"
+    weight: 4
+  

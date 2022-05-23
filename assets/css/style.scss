@@ -2,23 +2,25 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #9759e4ff;
+$primary-dark: rgb(100, 56, 153);
+$secondary: #13cff2ff;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
 
+$h1-text-color: $primary;
+
 // Links
-$link-color: $primary;
+$link-color: $secondary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: lighten($secondary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: Sport1; //, "Sport1 Regular Italic", Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: Sport1; //, "Sport1 Regular Italic", serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
